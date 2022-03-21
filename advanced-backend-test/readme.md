@@ -1,7 +1,7 @@
 <center>
 <img src="https://cdn.website-editor.net/7faf6d1ccff4459495853794e59fe9be/dms3rep/multi/mobile/Befeni_ohne_Claim.png" height="100">
 
-# Befeni Technical Test [Advanced]
+# Befeni Backend Technical Test [Advanced]
 </center>
 
 ## Test Overview
